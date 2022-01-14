@@ -532,7 +532,7 @@ body {
     grid-column-end: 5;
 }
 
-#guacamoledipp {
+#avokadodipp {
     grid-row-start: 2;  
     grid-row-end: 4;
     grid-column-start: 3;
@@ -571,4 +571,8 @@ body {
 }
 #textcolor4 {
     color: #283F3B;
+}
+
+#mail {
+    color: rgb(106, 213, 255);
 }
